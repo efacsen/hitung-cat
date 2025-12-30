@@ -1,0 +1,17 @@
+No,Kategori,Pertanyaan (Teknis Lapangan),Jawaban,Catatan Tambahan
+1,Data Narasumber,Nama & Lama Pengalaman (Tahun),,
+2,Data Narasumber,Jenis proyek yang sering ditangani (Rumah Subsidi/Menengah/Mewah/Gedung),,
+3,Daya Sebar (Realita),Di kaleng tertulis 1 Pail bisa 100m² lebih. Namun realitanya di lapangan untuk CAT EKONOMIS (Cat Kiloan), 1 Pail biasanya efektif menutup berapa meter (2 lapis)?,,"Contoh: Hanya 60m2"
+4,Daya Sebar (Realita),Untuk CAT PREMIUM (Cat Literan), apakah daya sebarnya jauh lebih luas dibanding cat ekonomis? Realitanya 1 Pail efektif menutup berapa meter?,,"Contoh: Bisa 100m2 full"
+5,Campuran Air (Viskositas),Secara praktek di lapangan, apakah pengenceran air mengikuti aturan pabrik (10-20%) atau sering dilebihkan agar aplikasi roll lebih ringan?,,
+6,Campuran Air (Viskositas),Jika air dilebihkan (lebih encer), apakah konsekuensinya harus menambah lapisan menjadi 3-4 kali agar warna menutup sempurna?,,"Ya/Tidak"
+7,Absorpsi (Tembok Baru),Seberapa tinggi tingkat penyerapan (absorpsi) tembok acian BARU dibanding tembok lama? Berapa persen estimasi pemborosan cat di lapis pertama?,,"Contoh: Lebih boros 20%"
+8,Covering Power (Warna),Jika klien meminta ganti warna dari GELAP ke TERANG (misal: Biru Tua ke Putih), apakah 2 lapis cukup? Atau wajib aplikasi cat dasar putih terlebih dahulu?,,"Cukup/Wajib Dasar"
+9,Metode Plamir,Apakah standar pengerjaan tim menggunakan plamir FULL satu tembok, atau hanya plamir retak rambut (spot)?,,"Full/Spot"
+10,Metode Plamir,Jika tembok sudah diplamir full, apakah konsumsi cat finish menjadi lebih irit dibandingkan langsung di atas acian/semen?,,
+11,Safety Margin (Wastage),Saat membuat Bill of Quantity (RAB) material, berapa persen angka aman (wastage) yang ditambahkan untuk tumpahan/sisa di kaleng? (5% / 10% / 15%),,
+12,Plafon (Langit-langit),Apakah koefisien penggunaan cat untuk plafon Gypsum berbeda dengan tembok? Apakah lebih boros karena faktor 'spatter' (cipratan jatuh)?,,"Sama/Lebih Boros"
+13,Konversi Unit (Kg vs Liter),Cat Ekonomis umumnya dijual dalam Kiloan (5kg), Cat Premium dalam Liter (2.5L). Secara coverage area, apakah 1 Galon 5kg setara dengan 1 Galon 2.5L?,,
+14,Konversi Unit (Kg vs Liter),Perbandingan volume: Antara 1 Pail Kiloan (20kg) vs 1 Pail Literan (20L), mana yang secara volume isinya lebih sedikit dan lebih cepat habis?,,
+15,Rekomendasi Produk,Sebutkan 1 Merk Cat Ekonomis yang paling sering direkomendasikan (Value for money),,
+16,Rekomendasi Produk,Sebutkan 1 Merk Cat Premium yang paling sering direkomendasikan (Best performance),,
